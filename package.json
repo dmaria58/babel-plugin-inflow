@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-inflow",
+  "version": "1.0.0",
+  "description": "Babel code injection plugin",
+  "main": "index.js",
+  "directories": {
+    "React error catch": "React error catch"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Maria",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmaria58/babel-plugin-inflow.git"
+  },
+  "keywords": [
+    "react",
+    "error catch",
+    "try catch"
+  ],
+  "bugs": {
+    "url": "https://github.com/dmaria58/babel-plugin-inflow/issues"
+  },
+  "homepage": "https://github.com/dmaria58/babel-plugin-inflow#readme"
+}
